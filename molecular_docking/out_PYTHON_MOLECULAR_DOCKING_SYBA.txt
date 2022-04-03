@@ -1,0 +1,239 @@
+Warning: importing 'simtk.openmm' is deprecated.  Import 'openmm' instead.
+@> PDB file is found in working directory (7npc.pdb).
+@> PDB file is found in working directory (7np5.pdb).
+@> PDB file is found in working directory (7kxd.pdb).
+@> 2151 atoms and 1 coordinate set(s) were parsed in 0.02s.
+@> 1972 atoms and 1 coordinate set(s) were parsed in 0.02s.
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+ERROR: docking failed. argv: ['vina', '--receptor=7npc_clean.pdb', '--ligand=ligand.pdbqt', '--center_x=4.529', '--center_y=-39.6705', '--center_z=-4.4475', '--size_x=66.72200000000001', '--size_y=89.341', '--size_z=54.235', '--cpu=12', '--out=vina_7npc_clean_ligand_0_out.pdbqt', '--log=vina_7npc_clean_ligand_0_log.txt', '--exhaustiveness=8', '--seed=1234']
+Message: 
+
+Parse error on line 1974 in file "7npc_clean.pdb": Unknown or inappropriate tag
+
+@> 2115 atoms and 1 coordinate set(s) were parsed in 0.03s.
+@> 1959 atoms and 1 coordinate set(s) were parsed in 0.01s.
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+ERROR: docking failed. argv: ['vina', '--receptor=7np5_clean.pdb', '--ligand=ligand.pdbqt', '--center_x=4.558499999999999', '--center_y=40.312', '--center_z=4.206999999999999', '--size_x=67.207', '--size_y=90.624', '--size_z=54.188', '--cpu=12', '--out=vina_7np5_clean_ligand_0_out.pdbqt', '--log=vina_7np5_clean_ligand_0_log.txt', '--exhaustiveness=8', '--seed=1234']
+Message: 
+
+Parse error on line 1961 in file "7np5_clean.pdb": Unknown or inappropriate tag
+
+@> 2252 atoms and 1 coordinate set(s) were parsed in 0.02s.
+@> 2027 atoms and 1 coordinate set(s) were parsed in 0.02s.
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+adding gasteiger charges to peptide
+[23:18:40] Initializing Normalizer
+[23:18:43] Running Uncharger
+[23:18:43] Running Uncharger
+[23:19:08] Running Uncharger
+[23:19:08] Running Uncharger
+[23:19:32] Running Uncharger
+[23:19:32] Running Uncharger
+[23:19:56] Running Uncharger
+[23:19:56] Running Uncharger
+[23:20:15] Running Uncharger
+[23:20:15] Running Uncharger
+[23:20:34] Running Uncharger
+[23:20:34] Running Uncharger
+[23:20:55] Running Uncharger
+[23:20:55] Running Uncharger
+[23:21:23] Running Uncharger
+[23:21:23] Running Uncharger
+[23:21:55] Running Uncharger
+[23:21:55] Running Uncharger
+[23:22:23] Running Uncharger
+[23:22:23] Running Uncharger
+[23:22:44] Running Uncharger
+[23:22:44] Running Uncharger
+[23:23:09] Running Uncharger
+[23:23:09] Running Uncharger
+[23:23:32] Running Uncharger
+[23:23:32] Running Uncharger
+[23:23:57] Running Uncharger
+[23:23:57] Running Uncharger
+[23:24:18] Running Uncharger
+[23:24:18] Running Uncharger
+[23:24:45] Running Uncharger
+[23:24:45] Running Uncharger
+[23:25:15] Running Uncharger
+[23:25:15] Running Uncharger
+[23:25:48] Running Uncharger
+[23:25:48] Running Uncharger
+[23:26:13] Running Uncharger
+[23:26:13] Running Uncharger
+[23:26:38] Running Uncharger
+[23:26:38] Running Uncharger
+[23:27:04] Running Uncharger
+[23:27:04] Running Uncharger
+[23:27:28] Running Uncharger
+[23:27:28] Running Uncharger
+[23:27:48] Running Uncharger
+[23:27:48] Running Uncharger
+[23:28:08] Running Uncharger
+[23:28:08] Running Uncharger
+[23:28:29] Running Uncharger
+[23:28:29] Running Uncharger
+[23:28:58] Running Uncharger
+[23:28:58] Running Uncharger
+[23:29:32] Running Uncharger
+[23:29:32] Running Uncharger
+[23:30:00] Running Uncharger
+[23:30:00] Running Uncharger
+[23:30:22] Running Uncharger
+[23:30:22] Running Uncharger
+[23:30:48] Running Uncharger
+[23:30:48] Running Uncharger
+[23:31:10] Running Uncharger
+[23:31:10] Running Uncharger
+[23:31:35] Running Uncharger
+[23:31:35] Running Uncharger
+[23:31:56] Running Uncharger
+[23:31:56] Running Uncharger
+[23:32:25] Running Uncharger
+[23:32:25] Running Uncharger
+[23:32:55] Running Uncharger
+[23:32:55] Running Uncharger
+[23:33:28] Running Uncharger
+[23:33:28] Running Uncharger
+[23:33:53] Running Uncharger
+[23:33:53] Running Uncharger
+[23:34:14] Running Uncharger
+[23:34:14] Running Uncharger
+[23:34:35] Running Uncharger
+[23:34:35] Running Uncharger
+[23:34:55] Running Uncharger
+[23:34:55] Running Uncharger
+[23:35:11] Running Uncharger
+[23:35:11] Running Uncharger
+[23:35:27] Running Uncharger
+[23:35:27] Running Uncharger
+[23:35:44] Running Uncharger
+[23:35:44] Running Uncharger
+[23:36:07] Running Uncharger
+[23:36:07] Running Uncharger
+[23:36:33] Running Uncharger
+[23:36:33] Running Uncharger
+[23:36:56] Running Uncharger
+[23:36:56] Running Uncharger
+[23:37:15] Running Uncharger
+[23:37:15] Running Uncharger
+[23:37:35] Running Uncharger
+[23:37:35] Running Uncharger
+[23:37:54] Running Uncharger
+[23:37:54] Running Uncharger
+[23:38:15] Running Uncharger
+[23:38:15] Running Uncharger
+[23:38:32] Running Uncharger
+[23:38:32] Running Uncharger
+[23:38:55] Running Uncharger
+[23:38:55] Running Uncharger
+[23:39:19] Running Uncharger
+[23:39:19] Running Uncharger
+[23:39:49] Running Uncharger
+[23:39:49] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[ERROR: docking failed. argv: ['vina', '--receptor=7kxd_clean.pdb', '--ligand=ligand.pdbqt', '--center_x=-2.7509999999999994', '--center_y=19.6925', '--center_z=20.442', '--size_x=64.892', '--size_y=61.690999999999995', '--size_z=51.998000000000005', '--cpu=12', '--out=vina_7kxd_clean_ligand_0_out.pdbqt', '--log=vina_7kxd_clean_ligand_0_log.txt', '--exhaustiveness=8', '--seed=1234']
+Message: 
+
+Parse error on line 2029 in file "7kxd_clean.pdb": Unknown or inappropriate tag
+
+7npc
+Residues (aminiacids) in receptor:  PRO CYS VAL MET GLN ARG THR ASP TRP ASN LEU LYS ALA GLU PHE TYR ILE SER GLY HIS 
+
+size:, center  [66.72200000000001, 89.341, 54.235] [4.529, -39.6705, -4.4475]
+7np5
+Residues (aminiacids) in receptor:  PRO CYS VAL MET GLN ARG THR ASP TRP ASN LEU LYS ALA GLU PHE TYR SER ILE GLY HIS 
+
+size:, center  [67.207, 90.624, 54.188] [4.558499999999999, 40.312, 4.206999999999999]
+7kxd
+Residues (aminiacids) in receptor:  PRO CYS MET VAL GLN ARG THR ASP TRP ASN LEU ALA LYS GLU PHE TYR SER ILE GLY HIS 
+
+size:, center  [64.892, 61.690999999999995, 51.998000000000005] [-2.7509999999999994, 19.6925, 20.442]
+23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger
+[23:40:07] Running Uncharger

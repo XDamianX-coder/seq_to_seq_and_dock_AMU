@@ -1,0 +1,4 @@
+7kxd_ready
+spacing    0.375
+npts       86 82 88
+center    -2.865 21.039 13.717

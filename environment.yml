@@ -1,0 +1,38 @@
+name: cheminf
+channels:
+  - conda-forge
+  - omnia
+  - defaults
+
+dependencies:
+  - configargparse
+  - h5py
+  - importlib_resources
+  - mpi4py
+  - openbabel
+  - pdbfixer==1.8.1
+  - pip
+  - tqdm=4.63.0
+  - python=3.8 
+  - jupyter
+  - pandas=1.2.1
+  - rdkit=2021.09.5
+  - scikit-learn
+  - matplotlib
+  - psycopg2 
+  - ProDy=2.0.2
+  - openpyxl
+  - nglview
+  - scipy=1.8.0
+  - pip:
+    - jedi==0.17.2
+    - tqdm
+    - pubchempy
+    - numpy==1.19.5
+    - pubchempy==1.0.4
+    - pyarrow==7.0.0
+    - selfies==2.0.0
+    - tensorflow==2.7.0
+    - xlsxwriter==3.0.3
+    - matplotlib==3.3.1
+    - openpyxl==3.0.5
