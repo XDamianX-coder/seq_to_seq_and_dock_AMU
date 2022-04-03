@@ -5,6 +5,12 @@
 # Workflow
 Open ```Order_of_usage.md``` to see detalied description of each folder.
 
+## Training data preparation
+<p align="center">
+  <img src="/scheme/data_preparation.png">
+</p>
+
+
 ## Model training
 <p align="center">
   <img src="/scheme/scheme_model.png">
