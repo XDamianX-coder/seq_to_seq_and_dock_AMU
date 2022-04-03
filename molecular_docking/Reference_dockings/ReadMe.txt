@@ -1,4 +1,4 @@
 To prepare data for visualization open one of *.dlg files with analyze tool in AutoDockTool 1.5.6. then load macromolecule with the same tool and use conformations play ranked by energy, and save that first complex. 
-Then delete all loaded files and load pdb, or pdbqt file that has been created in previous step and load it then load second *.dlg file and load macromolecule in the same manner and use analyze conformations and save it to pdb or pdbqt file. Then use Chimera to load that prepared file and add H-bonds and add some coloring. Voila.
-For above steps necessery files are: 7np5_ready.pdbqt, 7np5_structure_of_native_ligand.dlg, third_structure_7np5.dlg.
+Then delete all loaded files, load second *.dlg file and load macromolecule in the same manner and use analyze conformations and save it to pdb or pdbqt file. Then use Chimera to load that prepared files and add H-bonds and add some coloring. Voila.
+For above steps necessery files are: 7np5_ready.pdbqt, 7np5_structure_of_native_ligand.dlg, second_structure_7np5.dlg.
 Other docking are done...

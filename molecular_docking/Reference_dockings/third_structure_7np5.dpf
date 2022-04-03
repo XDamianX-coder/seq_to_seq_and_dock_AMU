@@ -13,12 +13,12 @@ map 7np5_ready.N.map                 # atom-specific affinity map
 map 7np5_ready.HD.map                # atom-specific affinity map
 elecmap 7np5_ready.e.map             # electrostatics map
 desolvmap 7np5_ready.d.map           # desolvation map
-move 3D_structure_3CC[C@.pdbqt       # small molecule
-about -0.0202 0.4241 0.1129          # small molecule center
+move 3D_structure_3CC(=O.pdbqt       # small molecule
+about -0.0159 -0.1731 -0.0796        # small molecule center
 tran0 random                         # initial coordinates/A or random
 quaternion0 random                   # initial orientation
 dihe0 random                         # initial dihedrals (relative) or random
-torsdof 5                            # torsional degrees of freedom
+torsdof 4                            # torsional degrees of freedom
 rmstol 2.0                           # cluster_tolerance/A
 extnrg 1000.0                        # external grid energy
 e0max 0.0 10000                      # max initial energy; max number of retries

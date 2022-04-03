@@ -54,7 +54,7 @@ Compilation parameters:  NUM_RECEPTOR_TYPES=20 NEINT=2048
  energy_lookup table has   655360 entries of size 8
         e_vdW_Hb table has   401408 entries of size 8
 Maximum number of maps that can be computed = 16 (defined by MAX_MAPS in "autocomm.h").
-This file was created at:			5:25 22" p.m., 03/20/2022
+This file was created at:			3:23 00" p.m., 04/03/2022
                    using:			"LAPTOP-HNCK58MV"
 
 
@@ -3906,79 +3906,79 @@ Finding the lowest pairwise interaction energy within 0.5 Angstrom ("smoothing")
  5.0    -0.00    -0.00    -0.00    -0.00    -0.00    -0.00    -0.00
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 559
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 559
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 560
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 560
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 640
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 640
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 641
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 641
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 644
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 644
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 644
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 644
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 646
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 646
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 646
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 646
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 658
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 658
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 659
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 659
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 666
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 666
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 666
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 666
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 667
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 667
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1155
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1155
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1156
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1156
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1394
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1394
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1395
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1395
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1775
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1775
 
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1776
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: WARNING:  Found an H-bonding atom with three bonded atoms, atom serial number 1776
 
 
 Beginning grid calculations.
@@ -3990,93 +3990,93 @@ XY-plane  Z-coord   Done      Remaining       Real, User, System
             /Ang              /sec            /sec
 ________  ________  ________  ______________  __________________________
 
-    -43    -24.547     1.1%        2m 47.70s  Real= 1.95,  CPU= 1.36,  System= 0.02
-    -42    -24.172     2.3%        1m 35.29s  Real= 1.12,  CPU= 1.03,  System= 0.02
-    -41    -23.797     3.4%        1m 27.36s  Real= 1.04,  CPU= 1.03,  System= 0.00
-    -40    -23.422     4.6%        1m 26.82s  Real= 1.05,  CPU= 1.03,  System= 0.00
-    -39    -23.047     5.7%        1m 27.66s  Real= 1.07,  CPU= 1.03,  System= 0.01
-    -38    -22.672     6.9%        1m 28.29s  Real= 1.09,  CPU= 1.03,  System= 0.00
-    -37    -22.297     8.0%        1m 26.56s  Real= 1.08,  CPU= 0.98,  System= 0.03
-    -36    -21.922     9.2%        1m 24.29s  Real= 1.07,  CPU= 1.05,  System= 0.00
-    -35    -21.547    10.3%        1m 23.77s  Real= 1.07,  CPU= 1.05,  System= 0.00
-    -34    -21.172    11.5%        1m 24.93s  Real= 1.10,  CPU= 1.06,  System= 0.00
-    -33    -20.797    12.6%        1m 24.13s  Real= 1.11,  CPU= 1.03,  System= 0.01
-    -32    -20.422    13.8%        1m 20.78s  Real= 1.08,  CPU= 1.05,  System= 0.02
-    -31    -20.047    14.9%        1m 20.14s  Real= 1.08,  CPU= 1.06,  System= 0.01
-    -30    -19.672    16.1%        1m 21.10s  Real= 1.11,  CPU= 1.09,  System= 0.02
-    -29    -19.297    17.2%        1m 24.67s  Real= 1.18,  CPU= 1.13,  System= 0.00
-    -28    -18.922    18.4%        1m 19.59s  Real= 1.12,  CPU= 1.06,  System= 0.02
-    -27    -18.547    19.5%        1m 17.14s  Real= 1.10,  CPU= 1.03,  System= 0.01
-    -26    -18.172    20.7%        1m 16.11s  Real= 1.10,  CPU= 1.09,  System= 0.00
-    -25    -17.797    21.8%        1m 18.61s  Real= 1.16,  CPU= 1.08,  System= 0.02
-    -24    -17.422    23.0%        1m 20.47s  Real= 1.20,  CPU= 1.11,  System= 0.02
-    -23    -17.047    24.1%        1m 13.33s  Real= 1.11,  CPU= 1.06,  System= 0.01
-    -22    -16.672    25.3%        1m 12.54s  Real= 1.12,  CPU= 1.06,  System= 0.00
-    -21    -16.297    26.4%        1m 12.58s  Real= 1.13,  CPU= 1.11,  System= 0.00
-    -20    -15.922    27.6%        1m 13.14s  Real= 1.16,  CPU= 1.09,  System= 0.02
-    -19    -15.547    28.7%        1m 09.56s  Real= 1.12,  CPU= 1.13,  System= 0.00
-    -18    -15.172    29.9%        1m 08.14s  Real= 1.12,  CPU= 1.09,  System= 0.01
-    -17    -14.797    31.0%        1m 07.92s  Real= 1.13,  CPU= 1.11,  System= 0.00
-    -16    -14.422    32.2%        1m 09.15s  Real= 1.17,  CPU= 1.16,  System= 0.02
-    -15    -14.047    33.3%        1m 09.54s  Real= 1.20,  CPU= 1.17,  System= 0.02
-    -14    -13.672    34.5%        1m 03.38s  Real= 1.11,  CPU= 1.08,  System= 0.00
-    -13    -13.297    35.6%        1m 02.72s  Real= 1.12,  CPU= 1.08,  System= 0.00
-    -12    -12.922    36.8%        1m 02.48s  Real= 1.14,  CPU= 1.03,  System= 0.01
-    -11    -12.547    37.9%        1m 02.86s  Real= 1.16,  CPU= 1.02,  System= 0.00
-    -10    -12.172    39.1%           59.84s  Real= 1.13,  CPU= 1.08,  System= 0.00
-     -9    -11.797    40.2%           58.03s  Real= 1.12,  CPU= 1.08,  System= 0.00
-     -8    -11.422    41.4%           59.92s  Real= 1.18,  CPU= 1.13,  System= 0.03
-     -7    -11.047    42.5%           58.05s  Real= 1.16,  CPU= 1.13,  System= 0.01
-     -6    -10.672    43.7%           55.96s  Real= 1.14,  CPU= 1.03,  System= 0.00
-     -5    -10.297    44.8%           54.00s  Real= 1.13,  CPU= 1.08,  System= 0.00
-     -4     -9.922    46.0%           52.40s  Real= 1.12,  CPU= 1.05,  System= 0.00
-     -3     -9.547    47.1%           52.07s  Real= 1.13,  CPU= 1.13,  System= 0.00
-     -2     -9.172    48.3%           53.46s  Real= 1.19,  CPU= 1.14,  System= 0.02
-     -1     -8.797    49.4%           49.32s  Real= 1.12,  CPU= 1.13,  System= 0.00
-      0     -8.422    50.6%           48.16s  Real= 1.12,  CPU= 1.08,  System= 0.01
-      1     -8.047    51.7%           47.21s  Real= 1.12,  CPU= 1.08,  System= 0.00
-      2     -7.672    52.9%           46.78s  Real= 1.14,  CPU= 1.09,  System= 0.00
-      3     -7.297    54.0%           45.00s  Real= 1.13,  CPU= 1.05,  System= 0.00
-      4     -6.922    55.2%           43.33s  Real= 1.11,  CPU= 1.06,  System= 0.00
-      5     -6.547    56.3%           43.93s  Real= 1.16,  CPU= 1.13,  System= 0.02
-      6     -6.172    57.5%           42.11s  Real= 1.14,  CPU= 1.08,  System= 0.02
-      7     -5.797    58.6%           41.29s  Real= 1.15,  CPU= 1.13,  System= 0.00
-      8     -5.422    59.8%           38.81s  Real= 1.11,  CPU= 1.09,  System= 0.00
-      9     -5.047    60.9%        1m 06.88s  Real= 1.97,  CPU= 1.42,  System= 0.03
-     10     -4.672    62.1%           46.96s  Real= 1.42,  CPU= 1.28,  System= 0.03
-     11     -4.297    63.2%           54.34s  Real= 1.70,  CPU= 1.41,  System= 0.03
-     12     -3.922    64.4%           42.01s  Real= 1.36,  CPU= 1.30,  System= 0.00
-     13     -3.547    65.5%           33.69s  Real= 1.12,  CPU= 1.06,  System= 0.03
-     14     -3.172    66.7%           33.38s  Real= 1.15,  CPU= 1.11,  System= 0.01
-     15     -2.797    67.8%           30.80s  Real= 1.10,  CPU= 1.02,  System= 0.03
-     16     -2.422    69.0%           29.89s  Real= 1.11,  CPU= 1.09,  System= 0.00
-     17     -2.047    70.1%           30.32s  Real= 1.17,  CPU= 1.08,  System= 0.01
-     18     -1.672    71.3%           37.15s  Real= 1.49,  CPU= 1.34,  System= 0.03
-     19     -1.297    72.4%           34.54s  Real= 1.44,  CPU= 1.33,  System= 0.00
-     20     -0.922    73.6%           32.66s  Real= 1.42,  CPU= 1.25,  System= 0.02
-     21     -0.547    74.7%           25.06s  Real= 1.14,  CPU= 1.08,  System= 0.02
-     22     -0.172    75.9%           24.09s  Real= 1.15,  CPU= 1.13,  System= 0.00
-     23      0.203    77.0%           21.62s  Real= 1.08,  CPU= 1.05,  System= 0.01
-     24      0.578    78.2%           21.51s  Real= 1.13,  CPU= 1.06,  System= 0.00
-     25      0.953    79.3%           29.54s  Real= 1.64,  CPU= 1.08,  System= 0.03
-     26      1.328    80.5%           19.19s  Real= 1.13,  CPU= 1.09,  System= 0.00
-     27      1.703    81.6%           20.14s  Real= 1.26,  CPU= 1.09,  System= 0.00
-     28      2.078    82.8%           26.43s  Real= 1.76,  CPU= 1.47,  System= 0.00
-     29      2.453    83.9%           24.32s  Real= 1.74,  CPU= 1.34,  System= 0.01
-     30      2.828    85.1%           13.86s  Real= 1.07,  CPU= 1.03,  System= 0.02
-     31      3.203    86.2%           14.87s  Real= 1.24,  CPU= 1.08,  System= 0.00
-     32      3.578    87.4%           11.89s  Real= 1.08,  CPU= 1.06,  System= 0.00
-     33      3.953    88.5%           16.19s  Real= 1.62,  CPU= 1.27,  System= 0.01
-     34      4.328    89.7%           12.91s  Real= 1.43,  CPU= 1.13,  System= 0.02
-     35      4.703    90.8%            8.31s  Real= 1.04,  CPU= 0.98,  System= 0.00
-     36      5.078    92.0%            7.39s  Real= 1.05,  CPU= 0.98,  System= 0.02
-     37      5.453    93.1%            6.23s  Real= 1.04,  CPU= 1.00,  System= 0.01
-     38      5.828    94.3%            5.20s  Real= 1.04,  CPU= 1.03,  System= 0.00
-     39      6.203    95.4%            4.02s  Real= 1.01,  CPU= 0.97,  System= 0.00
-     40      6.578    96.6%            2.99s  Real= 1.00,  CPU= 0.94,  System= 0.00
-     41      6.953    97.7%            2.03s  Real= 1.02,  CPU= 0.91,  System= 0.00
-     42      7.328    98.9%            1.17s  Real= 1.17,  CPU= 0.97,  System= 0.00
-     43      7.703   100.0%            0.00s  Real= 1.06,  CPU= 0.97,  System= 0.03
+    -43    -24.547     1.1%        2m 22.42s  Real= 1.66,  CPU= 1.17,  System= 0.01
+    -42    -24.172     2.3%        1m 55.35s  Real= 1.36,  CPU= 1.09,  System= 0.03
+    -41    -23.797     3.4%        1m 25.93s  Real= 1.02,  CPU= 1.02,  System= 0.00
+    -40    -23.422     4.6%        1m 28.98s  Real= 1.07,  CPU= 1.02,  System= 0.00
+    -39    -23.047     5.7%        1m 28.23s  Real= 1.08,  CPU= 1.02,  System= 0.03
+    -38    -22.672     6.9%        1m 48.78s  Real= 1.34,  CPU= 1.28,  System= 0.00
+    -37    -22.297     8.0%        1m 59.68s  Real= 1.50,  CPU= 1.28,  System= 0.00
+    -36    -21.922     9.2%        1m 59.53s  Real= 1.51,  CPU= 1.30,  System= 0.00
+    -35    -21.547    10.3%        1m 27.20s  Real= 1.12,  CPU= 1.06,  System= 0.02
+    -34    -21.172    11.5%        1m 23.78s  Real= 1.09,  CPU= 1.05,  System= 0.00
+    -33    -20.797    12.6%        1m 22.46s  Real= 1.09,  CPU= 1.08,  System= 0.00
+    -32    -20.422    13.8%        1m 16.05s  Real= 1.01,  CPU= 1.00,  System= 0.01
+    -31    -20.047    14.9%        1m 23.92s  Real= 1.13,  CPU= 1.11,  System= 0.00
+    -30    -19.672    16.1%        1m 20.45s  Real= 1.10,  CPU= 1.09,  System= 0.00
+    -29    -19.297    17.2%        1m 57.43s  Real= 1.63,  CPU= 1.27,  System= 0.00
+    -28    -18.922    18.4%        1m 54.31s  Real= 1.61,  CPU= 1.48,  System= 0.02
+    -27    -18.547    19.5%        2m 07.75s  Real= 1.83,  CPU= 1.59,  System= 0.01
+    -26    -18.172    20.7%        1m 33.15s  Real= 1.35,  CPU= 1.30,  System= 0.00
+    -25    -17.797    21.8%        1m 32.89s  Real= 1.37,  CPU= 1.20,  System= 0.03
+    -24    -17.422    23.0%        1m 17.45s  Real= 1.16,  CPU= 1.13,  System= 0.01
+    -23    -17.047    24.1%        1m 17.55s  Real= 1.18,  CPU= 1.16,  System= 0.00
+    -22    -16.672    25.3%        1m 11.24s  Real= 1.10,  CPU= 1.08,  System= 0.00
+    -21    -16.297    26.4%        1m 12.13s  Real= 1.13,  CPU= 1.11,  System= 0.00
+    -20    -15.922    27.6%        1m 06.91s  Real= 1.06,  CPU= 1.06,  System= 0.00
+    -19    -15.547    28.7%        1m 05.35s  Real= 1.05,  CPU= 1.06,  System= 0.00
+    -18    -15.172    29.9%        1m 05.82s  Real= 1.08,  CPU= 1.08,  System= 0.00
+    -17    -14.797    31.0%        1m 04.50s  Real= 1.08,  CPU= 1.06,  System= 0.00
+    -16    -14.422    32.2%        1m 01.60s  Real= 1.04,  CPU= 1.05,  System= 0.00
+    -15    -14.047    33.3%        1m 00.32s  Real= 1.04,  CPU= 1.03,  System= 0.00
+    -14    -13.672    34.5%           59.85s  Real= 1.05,  CPU= 1.05,  System= 0.00
+    -13    -13.297    35.6%        1m 00.42s  Real= 1.08,  CPU= 1.03,  System= 0.02
+    -12    -12.922    36.8%           59.84s  Real= 1.09,  CPU= 1.09,  System= 0.00
+    -11    -12.547    37.9%           56.97s  Real= 1.05,  CPU= 1.06,  System= 0.00
+    -10    -12.172    39.1%           55.28s  Real= 1.04,  CPU= 1.00,  System= 0.00
+     -9    -11.797    40.2%           54.50s  Real= 1.05,  CPU= 1.05,  System= 0.00
+     -8    -11.422    41.4%           54.67s  Real= 1.07,  CPU= 1.08,  System= 0.00
+     -7    -11.047    42.5%           52.85s  Real= 1.06,  CPU= 1.06,  System= 0.00
+     -6    -10.672    43.7%           51.16s  Real= 1.04,  CPU= 1.03,  System= 0.00
+     -5    -10.297    44.8%           50.16s  Real= 1.04,  CPU= 1.03,  System= 0.00
+     -4     -9.922    46.0%           49.44s  Real= 1.05,  CPU= 1.06,  System= 0.00
+     -3     -9.547    47.1%           49.27s  Real= 1.07,  CPU= 1.03,  System= 0.03
+     -2     -9.172    48.3%           47.16s  Real= 1.05,  CPU= 1.05,  System= 0.00
+     -1     -8.797    49.4%           45.98s  Real= 1.04,  CPU= 1.05,  System= 0.00
+      0     -8.422    50.6%           44.94s  Real= 1.04,  CPU= 1.02,  System= 0.02
+      1     -8.047    51.7%           49.81s  Real= 1.19,  CPU= 1.16,  System= 0.00
+      2     -7.672    52.9%           43.79s  Real= 1.07,  CPU= 1.05,  System= 0.00
+      3     -7.297    54.0%           41.56s  Real= 1.04,  CPU= 1.05,  System= 0.00
+      4     -6.922    55.2%           40.68s  Real= 1.04,  CPU= 1.03,  System= 0.00
+      5     -6.547    56.3%           39.14s  Real= 1.03,  CPU= 1.03,  System= 0.00
+      6     -6.172    57.5%           39.40s  Real= 1.06,  CPU= 1.08,  System= 0.00
+      7     -5.797    58.6%           37.91s  Real= 1.05,  CPU= 1.03,  System= 0.00
+      8     -5.422    59.8%           36.22s  Real= 1.03,  CPU= 1.00,  System= 0.03
+      9     -5.047    60.9%           37.26s  Real= 1.10,  CPU= 1.08,  System= 0.00
+     10     -4.672    62.1%           36.23s  Real= 1.10,  CPU= 1.08,  System= 0.00
+     11     -4.297    63.2%           33.86s  Real= 1.06,  CPU= 1.03,  System= 0.02
+     12     -3.922    64.4%           32.15s  Real= 1.04,  CPU= 1.03,  System= 0.00
+     13     -3.547    65.5%           30.75s  Real= 1.02,  CPU= 1.02,  System= 0.00
+     14     -3.172    66.7%           29.52s  Real= 1.02,  CPU= 1.00,  System= 0.00
+     15     -2.797    67.8%           29.20s  Real= 1.04,  CPU= 1.02,  System= 0.03
+     16     -2.422    69.0%           28.35s  Real= 1.05,  CPU= 1.03,  System= 0.02
+     17     -2.047    70.1%           26.55s  Real= 1.02,  CPU= 1.03,  System= 0.00
+     18     -1.672    71.3%           25.45s  Real= 1.02,  CPU= 1.00,  System= 0.00
+     19     -1.297    72.4%           24.41s  Real= 1.02,  CPU= 1.00,  System= 0.01
+     20     -0.922    73.6%           23.67s  Real= 1.03,  CPU= 1.03,  System= 0.00
+     21     -0.547    74.7%           22.79s  Real= 1.04,  CPU= 1.03,  System= 0.00
+     22     -0.172    75.9%           21.10s  Real= 1.01,  CPU= 1.00,  System= 0.00
+     23      0.203    77.0%           20.04s  Real= 1.00,  CPU= 0.98,  System= 0.02
+     24      0.578    78.2%           19.04s  Real= 1.00,  CPU= 0.98,  System= 0.01
+     25      0.953    79.3%           18.34s  Real= 1.02,  CPU= 1.02,  System= 0.00
+     26      1.328    80.5%           17.70s  Real= 1.04,  CPU= 1.02,  System= 0.02
+     27      1.703    81.6%           15.79s  Real= 0.99,  CPU= 0.98,  System= 0.00
+     28      2.078    82.8%           14.67s  Real= 0.98,  CPU= 0.97,  System= 0.00
+     29      2.453    83.9%           13.61s  Real= 0.97,  CPU= 0.97,  System= 0.00
+     30      2.828    85.1%           13.69s  Real= 1.05,  CPU= 1.03,  System= 0.00
+     31      3.203    86.2%           14.48s  Real= 1.21,  CPU= 1.09,  System= 0.02
+     32      3.578    87.4%           15.22s  Real= 1.38,  CPU= 1.16,  System= 0.05
+     33      3.953    88.5%           13.98s  Real= 1.40,  CPU= 1.28,  System= 0.00
+     34      4.328    89.7%           17.49s  Real= 1.94,  CPU= 1.44,  System= 0.06
+     35      4.703    90.8%           12.60s  Real= 1.58,  CPU= 1.28,  System= 0.02
+     36      5.078    92.0%            7.09s  Real= 1.01,  CPU= 1.02,  System= 0.00
+     37      5.453    93.1%            6.01s  Real= 1.00,  CPU= 0.94,  System= 0.03
+     38      5.828    94.3%            4.96s  Real= 0.99,  CPU= 0.97,  System= 0.00
+     39      6.203    95.4%            3.86s  Real= 0.96,  CPU= 0.95,  System= 0.00
+     40      6.578    96.6%            2.85s  Real= 0.95,  CPU= 0.94,  System= 0.00
+     41      6.953    97.7%            2.06s  Real= 1.03,  CPU= 0.97,  System= 0.00
+     42      7.328    98.9%            1.06s  Real= 1.06,  CPU= 1.05,  System= 0.00
+     43      7.703   100.0%            0.00s  Real= 1.39,  CPU= 1.25,  System= 0.00
 
 Grid	Atom	Minimum   	Maximum
 Map 	Type	Energy    	Energy 
@@ -4096,5 +4096,5 @@ ____	____	_____________	_____________
  * Note:  Every pairwise-atomic interaction was clamped at 100000.00
 
 
-C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains/autogrid4.exe: Successful Completion.
-Real= 1m 43.84s,  CPU= 1m 35.84s,  System= 0.89s
+C:/Users/aleks/OneDrive/Pulpit/docking_to_new_domains_RORy_activ/autogrid4.exe: Successful Completion.
+Real= 1m 38.94s,  CPU= 1m 34.05s,  System= 0.72s

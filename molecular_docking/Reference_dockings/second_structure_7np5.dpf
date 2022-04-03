@@ -2,22 +2,23 @@ autodock_parameter_version 4.2       # used by autodock to validate parameter se
 outlev 1                             # diagnostic output level
 intelec                              # calculate internal electrostatics
 seed pid time                        # seeds for random generator
-ligand_types A C NA OA N HD          # atoms types in ligand
+ligand_types A C F NA OA N HD        # atoms types in ligand
 fld 7np5_ready.maps.fld              # grid_data_file
 map 7np5_ready.A.map                 # atom-specific affinity map
 map 7np5_ready.C.map                 # atom-specific affinity map
+map 7np5_ready.F.map                 # atom-specific affinity map
 map 7np5_ready.NA.map                # atom-specific affinity map
 map 7np5_ready.OA.map                # atom-specific affinity map
 map 7np5_ready.N.map                 # atom-specific affinity map
 map 7np5_ready.HD.map                # atom-specific affinity map
 elecmap 7np5_ready.e.map             # electrostatics map
 desolvmap 7np5_ready.d.map           # desolvation map
-move 3D_structure_2CC=C(.pdbqt       # small molecule
-about 0.0834 0.2458 -0.1274          # small molecule center
+move 3D_structure_2CC(=O.pdbqt       # small molecule
+about 0.1118 0.2921 0.0137           # small molecule center
 tran0 random                         # initial coordinates/A or random
 quaternion0 random                   # initial orientation
 dihe0 random                         # initial dihedrals (relative) or random
-torsdof 5                            # torsional degrees of freedom
+torsdof 3                            # torsional degrees of freedom
 rmstol 2.0                           # cluster_tolerance/A
 extnrg 1000.0                        # external grid energy
 e0max 0.0 10000                      # max initial energy; max number of retries
