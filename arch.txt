@@ -1,0 +1,142 @@
+seq_to_seq_and_dock_AMU:.
+|   environment.yml
+|   LICENSE
+|   Order_of_usage.md
+|   README.md
++---model
+|   |   Blog_history_ZINC_SELFIES.pickle
+|   |   int_to_mol_seq.json
+|   |   lat2state_ZINC.h5
+|   |   Model_plot.ipynb
+|   |   Molecule_generator-Generative_neural_network.py
+|   |   mol_seq2lat_ZINC.h5
+|   |   mol_seq_to_int.json
+|   |   mol_seq_to_SELFIES.json
+|   |   out_PYTHON_Model_creation_SELFIES.txt
+|   |   samplemodel_ZINC.h5
+|   |   SELFIES_to_mol_seq.json
+|   \---data
+|           Data_preparation.ipynb
+|           RORgamma_active_compounds.xlsx
+|           ZINC-downloader-2D-smi.wget
+|           zinc20_FK_DC_BB_JA_HE_GA_KG_IC_CB_HJ_processed.parquet
+|           zinc20_selected_to_create_model_processed.parquet
++---molecular_docking
+|   |   3D_structure_1CC(=O.pdb
+|   |   3D_structure_2CC(=O.pdb
+|   |   3D_structure_3CC(=O.pdb
+|   |   Assigning_prediction_mode_to_obtained_and_selected_molecule.ipynb
+|   |   Clean_results.ipynb
+|   |   dockingResults_ROR_gamma_SYBA_CLEAN.xlsx
+|   |   dockingResults_ROR_gamma_SYBA_selected.xlsx
+|   |   dockingResults_ROR_gamma_SYBA_selected_blind_try.xlsx
+|   |   out_PYTHON_MOLECULAR_DOCKING_SYBA.txt
+|   |   Python_molecular_docking.py
+|   |   Selection_of_most_prominent_structures.ipynb
+|   |   SMILES_to_3D_PDB.ipynb
+|   \---Reference_dockings
+|           3D_structure_1CC(=O.pdbqt
+|           3D_structure_2CC(=O.pdbqt
+|           3D_structure_3CC(=O.pdbqt
+|           7kxd.pdb
+|           7kxd_ready.pdbqt
+|           7kxd_structureLIG.pdb
+|           7kxd_structureLIG.pdbqt
+|           7kxd_structure_of_native_ligand.dlg
+|           7kxd_structure_of_native_ligand.dpf
+|           7kxd_structure_present_in_pdb.glg
+|           7kxd_structure_present_in_pdb.gpf
+|           7np5.pdb
+|           7np5_ready.pdbqt
+|           7np5_structure_of_native_ligand.dlg
+|           7np5_structure_of_native_ligand.dpf
+|           7np5_structure_present_in_pdb.glg
+|           7np5_structure_present_in_pdb.gpf
+|           7npc.pdb
+|           7npc_7NP5_structure.pdbqt
+|           7npc_7NP5_structure_OF_LIGAND_present_in_PDB.pdb
+|           7npc_ready.pdbqt
+|           7npc_structure_of_native_ligand.dlg
+|           7npc_structure_of_native_ligand.dpf
+|           7npc_structure_present_in_pdb.glg
+|           7npc_structure_present_in_pdb.gpf
+|           first_structure_7kxd.dlg
+|           first_structure_7kxd.dpf
+|           first_structure_7kxd.glg
+|           first_structure_7kxd.gpf
+|           first_structure_7np5.dlg
+|           first_structure_7np5.dpf
+|           first_structure_7np5.glg
+|           first_structure_7np5.gpf
+|           first_structure_7npc.dlg
+|           first_structure_7npc.dpf
+|           first_structure_7npc.glg
+|           first_structure_7npc.gpf
+|           grid_BOX_7kxd.txt
+|           grid_BOX_7np5.txt
+|           grid_BOX_7npcc.txt
+|           ReadMe.txt
+|           second_structure_7kxd.dlg
+|           second_structure_7kxd.dpf
+|           second_structure_7kxd.glg
+|           second_structure_7kxd.gpf
+|           second_structure_7np5.dlg
+|           second_structure_7np5.dpf
+|           second_structure_7np5.glg
+|           second_structure_7np5.gpf
+|           second_structure_7npc.dlg
+|           second_structure_7npc.dpf
+|           second_structure_7npc.glg
+|           second_structure_7npc.gpf
+|           third_structure_7kxd.dlg
+|           third_structure_7kxd.dpf
+|           third_structure_7kxd.glg
+|           third_structure_7kxd.gpf
+|           third_structure_7np5.dlg
+|           third_structure_7np5.dpf
+|           third_structure_7np5.glg
+|           third_structure_7np5.gpf
+|           third_structure_7npc.dlg
+|           third_structure_7npc.dpf
+|           third_structure_7npc.glg
+|           third_structure_7npc.gpf
+|           to_visualization.pdbqt
+|           to_vis_native.pdbqt
+|           visualization_of_docking_res.pdb
++---prediction_and_selection
+|       All_generated_SMILES_QED_Lipinski.xlsx
+|       All_generated_SMILES_SYBA_filtration.xlsx
+|       All_generated_SMILES_visualization.ipynb
+|       Assigning_prediction_mode_to_selected_SMILES.ipynb
+|       Checking_if_ROR_gamma_activ_are_in_ZINC_db.ipynb
+|       Combine_Generated_and_Selected_structures.ipynb
+|       Molecules_generated_tensor_scaling_0_1.xlsx
+|       Molecules_generated_tensor_scaling_0_2.xlsx
+|       My_score_to_final_structures.ipynb
+|       Prediction_1_0.1_tensor_scaling.ipynb
+|       Prediction_2_0.2_tensor_scaling.ipynb
+|       Prediction_initializers_ROR_activ.xlsx
+|       RORgamma_active_QED_LIPINSKI_SYBA_all.xlsx
+|       ROR_gamma_active_QED_Lipinski.ipynb
+|       ROR_gamma_active_QED_Lipinski.xlsx
+|       Selected_molecules_from_0_1_tensor_scaling.xlsx
+|       Selected_molecules_from_0_2_tensor_scaling.xlsx
+|       Selection_from_0_1_tensor_scaling.ipynb
+|       Selection_from_0_2_tensor_scaling.ipynb
+|       SYBA_classifier_additional_filter-ROR_gamma_activ.ipynb
+|       SYBA_classifier_additional_filter.ipynb
+|       SYBA_class_ROR_gamma_activ_AFTER_QED_LIPINSKI.ipynb
++---scheme
+|       data_preparation.png
+|       Impartant_scheme.png
+|       scheme_docking.png
+|       scheme_filtration.png
+|       scheme_model.png
+|       scheme_prediction.png
++---SELFIES_coder
+|       SELFIES_coder.py
+|       UniCode_char.csv
+|       __init__.py
+\---Tanimoto_similarity
+        Tanimoto_similarity-SYBA_selection.ipynb
+        Tanimoto_similarity_All_generated_and_selected.ipynb
