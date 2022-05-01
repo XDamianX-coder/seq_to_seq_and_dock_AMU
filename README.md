@@ -13,7 +13,7 @@ Open ```Order_of_usage.md``` to see detalied description of each folder.
 
 ## Model training
 <p align="center">
-  <img src="/scheme/scheme_model.png">
+  <img src="/scheme/scheme_model_v2.png">
 </p>
 
 # Acknowledgments
@@ -23,10 +23,10 @@ Many thanks to Ph. D. Esben Jannik Bjerrum who is the author of Cheminformania.c
 ## Prediction
 
 <p align="center">
-  <img src="/scheme/scheme_prediction.png">
+  <img src="/scheme/scheme_prediction_v2.png">
 </p>
 
-## SMILES filtration
+## SMILES filtration (initials and generated)
 
 <p align="center">
   <img src="/scheme/scheme_filtration.png">
