@@ -75,6 +75,7 @@ seq_to_seq_and_dock_AMU:.
 |           grid_BOX_7kxd.txt
 |           grid_BOX_7np5.txt
 |           grid_BOX_7npcc.txt
+|           image.png
 |           ReadMe.txt
 |           second_structure_7kxd.dlg
 |           second_structure_7kxd.dpf
