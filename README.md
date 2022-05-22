@@ -18,10 +18,12 @@ Open ```Order_of_usage.md``` to see detalied description of each folder.
 
 # Acknowledgments
 
-Many thanks to Ph. D. Esben Jannik Bjerrum who is the author of Cheminformania.com blog. The encoder-decoder code (model) was inspired from code at 
+Many thanks to Ph. D. Esben Jannik Bjerrum ``` https://github.com/EBjerrum ``` who is the author of Cheminformania.com blog. The encoder-decoder code (model) was inspired from code at 
 ```
 https://www.cheminformania.com/master-your-molecule-generator-seq2seq-rnn-models-with-smiles-in-keras/
 ```
+
+Special thanks to Ph. D. Rafał Bachorz ``` https://github.com/rafalbachorz ``` for invaluable help during code preparation. 
 
 ## Prediction
 
