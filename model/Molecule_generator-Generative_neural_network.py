@@ -88,23 +88,23 @@ f.write(json1)
 f.close()
 
 
-#vectorization of molecular sequence code
-def vectorize(smiles, shap):
+#vectorization of molecular sequence
+def vectorize(mol_seqs, shap):
         one_hot =  np.zeros((shap, embed , len(charset)),dtype=np.int8)
-        for i,smile in enumerate(smiles):
+        for i,mol_seq in enumerate(mol_seqs):
             #encode the startchar
             one_hot[i,0,char_to_int["!"]] = 1
             #encode the rest of the chars
-            for j,c in enumerate(smile):
+            for j,c in enumerate(mol_seq):
                 one_hot[i,j+1,char_to_int[c]] = 1
             #Encode endchar
-            one_hot[i,len(smile)+1:,char_to_int["E"]] = 1
+            one_hot[i,len(mol_seq)+1:,char_to_int["E"]] = 1
         #Return two, one for input and the other for output
         return one_hot[:,0:-1,:], one_hot[:,1:,:]
-smiles_train_ = data[0][:int(shap)]
-smiles_test_ = data[0][int(shap):int(shap+shap1)]
-X_train, Y_train = vectorize(smiles_train_, shap)
-X_test,Y_test = vectorize(smiles_test_, shap1)
+mol_seq_train_ = data[0][:int(shap)]
+mol_seq_test_ = data[0][int(shap):int(shap+shap1)]
+X_train, Y_train = vectorize(mol_seq_train_, shap)
+X_test,Y_test = vectorize(mol_seq_test_, shap1)
 print(smiles_train.iloc[0])
 
 
@@ -115,12 +115,12 @@ print(string_test)
 decoded = SELFIES_CODER.convert_back_to_SEFLIES(string_test, data[1])
 print(decoded)
 
-decoded_two = SELFIES_CODER.convert_back_to_SEFLIES(smiles_train_[0], data[1])
+decoded_two = SELFIES_CODER.convert_back_to_SEFLIES(mol_seq_train_[0], data[1])
 print(decoded_two)
 
 print("Correct encoding-decoding: "+str(decoded == decoded_two))
 
-smiles_train_[0]
+mol_seq_train_[0]
 #Import Keras objects
 #LSTM cells special kinds of neural network units that are designed to keep an internal state for longer iterations
 from keras.models import Model
