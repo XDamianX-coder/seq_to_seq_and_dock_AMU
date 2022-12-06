@@ -232,6 +232,9 @@ smilesCleaned = [Chem.MolToSmiles(get_parent_mol(Chem.MolFromSmiles(smiles), neu
 resultsDF['Mol Image'] = [Chem.MolFromSmiles(s) for s in smilesCleaned]
 PandasTools.SaveXlsxFromFrame(resultsDF, 'dockingResults_ROR_gamma_SYBA_selected.xlsx', molCol='Mol Image')
 
+# After the first molecular docking, the created file can be checked to see if any structure was problematic during the procedure. If so, the file can be duplicated, and the suffix "_blind_try” should be added just before the .xlsx extension.
+# Then code present in the file All_generated_SMILES_visualization.ipynb can be launched.
+
 #Save results to csv file
 #resultsDF.to_csv('dockingResults_ROR_gamma.csv', index=True) #results without 2D representation of molecule
 
