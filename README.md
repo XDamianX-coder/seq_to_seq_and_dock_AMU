@@ -1,5 +1,5 @@
 # seq_to_seq_and_dock_AMU
-## Master thesis materials
+## Title
 ```Neural networks in the design of molecules with affinity to selected protein domains.```
 
 # Workflow
